@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://cdn.clickerheroes.com/gamebuild/$1"
+    }
+  ]
+}
